@@ -1,11 +1,11 @@
 # Project 3 Generative Visual
 
-Your Name, yourcontact@unl.edu
-(Your teammate's contact info, if appropriate)
+Grant Stoner
+gstoner2@huskers.unl.edu
 
 ## Abstract
 
-Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
+I am going to use big GAN to develop images of "The Future Seven wonders of the world." I will plug in some 
 
 ## Model/Data
 
