@@ -5,7 +5,7 @@ gstoner2@huskers.unl.edu
 
 ## Abstract
 
-I am going to use big GAN to develop images of "The Future Seven wonders of the world." I will plug in some 
+I am going to use big GAN to develop images of some Future Wonders of the World. I will plug in some absract descriptions of what I imagine these seven future wonders could be, and then will name and describe them myself. I will then post a variety of the results as a google survey asking people to vote for their favorites (sim)
 
 ## Model/Data
 
