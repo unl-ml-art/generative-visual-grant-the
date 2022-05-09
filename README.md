@@ -5,36 +5,12 @@ gstoner2@huskers.unl.edu
 
 ## Abstract
 
-I am going to use big GAN to develop images of some Future Wonders of the World. I will plug in some absract descriptions of what I imagine these seven future wonders could be, and then will name and describe them myself. I will then post a variety of the results as a google survey asking people to vote for their favorites (sim)
+I am going to use big GAN to develop images of some Future Wonders of the World. I will plug in some absract descriptions of what I imagine these seven future wonders could be. I would definitely like to further develop this concept into some fictional travel booklets or something in the future.
 
 ## Model/Data
 
-Briefly describe the files that are included with your repository:
-- trained models
-- training data (or link to training data)
+I used BigGAN text to image
 
 ## Code
 
-Your code for generating your project:
-- Python: generative_code.py
-- Jupyter notebooks: generative_code.ipynb
 
-## Results
-
-Documentation of your results in an appropriate format, both links to files and a brief description of their contents:
-- image files (`.jpg`, `.png` or whatever else is appropriate)
-- move files (uploaded to youtube or vimeo due to github file size limits)
-- ... some other form
-
-## Technical Notes
-
-Any implementation details or notes we need to repeat your work. 
-- Does this code require other pip packages, software, etc?
-- Does it run on some other (non-datahub) platform? (CoLab, etc.)
-
-## Reference
-
-References to any papers, techniques, repositories you used:
-- Papers
-- Repositories
-- Blog posts
