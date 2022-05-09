@@ -12,5 +12,5 @@ I am going to use big GAN to develop images of some Future Wonders of the World.
 I used BigGAN text to image
 
 ## Code
-
+text_to_image_CLIP_BigGAN.ipynb
 
